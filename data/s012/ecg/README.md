@@ -1,5 +1,5 @@
 # Subject S012 ECG Data Processing Summary
-Generated on 2024-08-30 15:21:16
+Generated on 2024-08-30 15:45:37
 
 ## r_amps: R Amplitudes (mV)
 ![r_amps: R Amplitudes (mV)](images/ecg_features_r_amps.png)
