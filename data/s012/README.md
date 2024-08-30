@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Subject S012 - Physiological Data Analysis Reports
 ---
+
+# Subject S012 - Physiological Data Analysis Reports
 
 ## [ECG Report](./ecg/README.md)
 
