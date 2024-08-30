@@ -1,3 +1,5 @@
-# Multimodal Physiological Data Analysis
+---
+layout: page
+---
 
 - [S012](./s012/)
