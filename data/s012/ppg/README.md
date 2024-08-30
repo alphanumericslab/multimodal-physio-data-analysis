@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Subject S012 PPG Data Processing Summary
 Generated on 2024-08-30 16:08:57
 
