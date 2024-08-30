@@ -1,5 +1,6 @@
 ---
+layout: page
 title: Multimodal Physiological Data Analysis
 ---
 
-- [S012](./s012/)
+- [S012](./data/s012/)
