@@ -26,7 +26,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Emory University BMI | Georgia Tech BME
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  url: "https://sameni.org/multimodal-physio-data-analysis/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
