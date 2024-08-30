@@ -1,7 +1,7 @@
-title: Multimodal Physiological Data Analysis 
+title: Multimodal Physiological Data Analysis
 author:
   name: Copyright 2024, Reza Sameni
-  email: rsameni@dbmi.emory.edu
+  email:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -26,20 +26,20 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-includes_dir: 
- #Resources/Papers
+#includes_dir: 
+# Resources/Papers
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
- # - about.md
- # - projects.md
- # - publications.md
- # - codes.md
- # - team.md
- # - jobs.md
+#header_pages:
+# - about.md
+#- projects.md
+#- publications.md
+#- codes.md
+#- team.md
+#- jobs.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
