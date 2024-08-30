@@ -1,6 +1,3 @@
----
-layout: page
----
 ## Subject S012 ECG Data Processing Summary
 Generated on 2024-08-30 00:43:17
 
