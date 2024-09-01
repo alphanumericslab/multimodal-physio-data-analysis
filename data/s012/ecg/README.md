@@ -30,6 +30,7 @@ layout: page
 
 ### T/R Wave Ratio - Overlay
 ![T/R Wave Ratio - Overlay](images/ecg_features_overlay_29.png)
+
 # Subject S012 ECG Data Processing Detailed
 
 - r_amps: R Amplitudes (mV)
