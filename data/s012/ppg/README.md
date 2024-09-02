@@ -3,8 +3,8 @@ layout: page
 ---
 
 
-# Subject S012 PPG Data Processing Summary
-Generated on 2024-09-01 23:23:29
+# Subject S012 Photoplethysmography Data Processing Summary
+Generated on 2024-09-02 10:53:51
 
 ## ppg_onset_to_systolic_peak: PPG Onset to Systolic Peak Interval
 ![ppg_onset_to_systolic_peak: PPG Onset to Systolic Peak Interval](images/p000007_ppg_fiducials_s2000_e1800000_ppg_onset_to_systolic_peak.png)
