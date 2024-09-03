@@ -10,3 +10,5 @@ layout: page
 
 ## [Photoplethysmography (PPG) Report](./ppg/README.md)
 
+## [Electrodermal Activity (EDA) Report](./eda/README.md)
+
