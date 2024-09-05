@@ -8,9 +8,3 @@ layout: page
 
 ## [Blood Pressure (BP) Report](./bp/README.md)
 
-## [Electroencephalogram (EEG) Report](./eeg/README.md)
-
-## [Photoplethysmography (PPG) Report](./ppg/README.md)
-
-## [Electrodermal Activity (EDA) Report](./eda/README.md)
-
