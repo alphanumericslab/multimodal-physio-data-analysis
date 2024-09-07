@@ -10,32 +10,37 @@ layout: page
 ---
 ## Heart Rate
 
-![Heart Rate - Overlay](images/S012_ecg_features_overlay.png)
+![Heart Rate - Overlay](images/S012_ecg_features_overlay_3.png)
 
 ---
 ## RR Intervals
 
-![RR Intervals - Overlay](images/S012_ecg_features_overlay_1.png)
+![RR Intervals - Overlay](images/S012_ecg_features_overlay_4.png)
+
+---
+## Heart Rate Variability Over Sliding Windows
+
+![Heart Rate Variability Over Sliding Windows - Overlay](images/S012_ecg_features_overlay_5.png)
 
 ---
 ## R-Wave Amplitudes
 
-![R-Wave Amplitudes - Overlay](images/S012_ecg_features_overlay_2.png)
+![R-Wave Amplitudes - Overlay](images/S012_ecg_features_overlay_6.png)
 
 ---
 ## QT Intervals
 
-![QT Intervals - Overlay](images/S012_ecg_features_overlay_3.png)
+![QT Intervals - Overlay](images/S012_ecg_features_overlay_7.png)
 
 ---
 ## Corrected QT (QTc) Intervals
 
-![Corrected QT (QTc) Intervals - Overlay](images/S012_ecg_features_overlay_4.png)
+![Corrected QT (QTc) Intervals - Overlay](images/S012_ecg_features_overlay_8.png)
 
 ---
 ## T/R Wave Ratio
 
-![T/R Wave Ratio - Overlay](images/S012_ecg_features_overlay_5.png)
+![T/R Wave Ratio - Overlay](images/S012_ecg_features_overlay_9.png)
 
 ---
 # Subject S012 Electrocardiogram Data Processing Detailed
@@ -57,6 +62,9 @@ layout: page
 
 ## hr_smoothed: Heart Rate Smoothed
 ![hr_smoothed: Heart Rate Smoothed](images/S012_ecg_features_hr_smoothed.png)
+
+## hrv: Heart Rate Moving STD (HRV)
+![hrv: Heart Rate Moving STD (HRV)](images/S012_ecg_features_hrv.png)
 
 ## rr: RR Interval
 ![rr: RR Interval](images/S012_ecg_features_rr.png)
