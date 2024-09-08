@@ -1,4 +1,8 @@
-## [Subject S012](./data/s012/README.md)
+---
+layout: page
+---
+
+# Multimodal Physiological Data Analysis
 
 ## [Subject S003](./data/s003/README.md)
 
@@ -26,9 +30,9 @@
 
 ## [Subject S025](./data/s025/README.md)
 
-## [Subject S028](./data/s028/README.md)
-
 ## [Subject S026](./data/s026/README.md)
 
 ## [Subject S027](./data/s027/README.md)
+
+## [Subject S028](./data/s028/README.md)
 

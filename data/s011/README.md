@@ -2,9 +2,13 @@
 layout: page
 ---
 
-# Subject S011 - Physiological Data Analysis Reports
+# Subject S011 - Physiological data analysis reports
 
-## [Electrocardiogram (ECG) Report](./ecg/README.md)
+## [Electrocardiogram (ECG) report](./ecg/README.md)
 
 ## [Blood Pressure (BP) Report](./bp/README.md)
+
+## [Electroencephalogram (EEG) report](./eeg/README.md)
+
+## [Photoplethysmogram (PPG) report](./ppg/README.md)
 

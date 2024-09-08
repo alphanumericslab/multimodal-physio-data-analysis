@@ -2,15 +2,15 @@
 layout: page
 ---
 
-# Subject S027 Blood Pressure Data Processing Summary
+# Subject S027 blood pressure data processing summary
 
 
 
 
 ---
-# Subject S027 Blood Pressure Data Processing Summary
+# Subject S027 blood pressure data processing summary
 
-![Subject S027 Blood Pressure Data Processing Summary - Overlay](images/S027_bp_features_overlay.png)
+![Subject S027 blood pressure data processing summary - Overlay](images/S027_bp_features_overlay.png)
 
 ---
 # Pulse Pressure

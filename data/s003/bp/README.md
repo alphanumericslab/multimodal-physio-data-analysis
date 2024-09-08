@@ -2,15 +2,15 @@
 layout: page
 ---
 
-# Subject S003 Blood Pressure Data Processing Summary
+# Subject S003 blood pressure data processing summary
 
 
 
 
 ---
-# Subject S003 Blood Pressure Data Processing Summary
+# Subject S003 blood pressure data processing summary
 
-![Subject S003 Blood Pressure Data Processing Summary - Overlay](images/S003_bp_features_overlay.png)
+![Subject S003 blood pressure data processing summary - Overlay](images/S003_bp_features_overlay.png)
 
 ---
 # Pulse Pressure

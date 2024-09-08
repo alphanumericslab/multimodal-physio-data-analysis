@@ -2,111 +2,180 @@
 layout: page
 ---
 
-# Subject S025 ECG Data Processing Summary
+# Subject S025 electrocardiogram (ECG) data processing summary
 
 
 
 
 ---
-## Heart Rate
+## Heart rate
 
-![Heart Rate - Overlay](images/S025_ecg_features_overlay.png)
-
----
-## RR Intervals
-
-![RR Intervals - Overlay](images/S025_ecg_features_overlay_1.png)
+![Heart rate - Overlay](images/S025_ecg_features_overlay.png)
 
 ---
-## Heart Rate Variability Over Sliding Windows
+## RR intervals
 
-![Heart Rate Variability Over Sliding Windows - Overlay](images/S025_ecg_features_overlay_2.png)
-
----
-## R-Wave Amplitudes
-
-![R-Wave Amplitudes - Overlay](images/S025_ecg_features_overlay_3.png)
+![RR intervals - Overlay](images/S025_ecg_features_overlay_1.png)
 
 ---
-## QT Intervals
+## Heart rate variability over sliding windows
 
-![QT Intervals - Overlay](images/S025_ecg_features_overlay_4.png)
-
----
-## Corrected QT (QTc) Intervals
-
-![Corrected QT (QTc) Intervals - Overlay](images/S025_ecg_features_overlay_5.png)
+![Heart rate variability over sliding windows - Overlay](images/S025_ecg_features_overlay_2.png)
 
 ---
-## T/R Wave Ratio
+## RR-interval variability over sliding windows
 
-![T/R Wave Ratio - Overlay](images/S025_ecg_features_overlay_6.png)
+![RR-interval variability over sliding windows - Overlay](images/S025_ecg_features_overlay_3.png)
 
 ---
-# Subject S025 Electrocardiogram Data Processing Detailed
+## RR-interval difference RMS (RMSSD)
 
-## r_amps: R Amplitudes
-![r_amps: R Amplitudes](images/S025_ecg_features_r_amps.png)
+![RR-interval difference RMS (RMSSD) - Overlay](images/S025_ecg_features_overlay_4.png)
 
-## r_amps_refined: R Amplitudes Refined
-![r_amps_refined: R Amplitudes Refined](images/S025_ecg_features_r_amps_refined.png)
+---
+## Percentage of successive RR intervals differing by more than 50 ms over 120-beat window
 
-## r_amps_smoothed: R Amplitudes Smoothed
-![r_amps_smoothed: R Amplitudes Smoothed](images/S025_ecg_features_r_amps_smoothed.png)
+![Percentage of successive RR intervals differing by more than 50 ms over 120-beat window - Overlay](images/S025_ecg_features_overlay_5.png)
 
-## hr: Heart Rate
-![hr: Heart Rate](images/S025_ecg_features_hr.png)
+---
+## R-wave amplitudes
 
-## hr_refined: Heart Rate Refined
-![hr_refined: Heart Rate Refined](images/S025_ecg_features_hr_refined.png)
+![R-wave amplitudes - Overlay](images/S025_ecg_features_overlay_6.png)
 
-## hr_smoothed: Heart Rate Smoothed
-![hr_smoothed: Heart Rate Smoothed](images/S025_ecg_features_hr_smoothed.png)
+---
+## QT intervals
 
-## hrv: Heart Rate Moving STD (HRV)
-![hrv: Heart Rate Moving STD (HRV)](images/S025_ecg_features_hrv.png)
+![QT intervals - Overlay](images/S025_ecg_features_overlay_7.png)
 
-## rr: RR Interval
-![rr: RR Interval](images/S025_ecg_features_rr.png)
+---
+## Bazett corrected QT (QTc) intervals
 
-## rr_refined: RR Refined
-![rr_refined: RR Refined](images/S025_ecg_features_rr_refined.png)
+![Bazett corrected QT (QTc) intervals - Overlay](images/S025_ecg_features_overlay_8.png)
 
-## rr_smoothed: RR Smoothed
-![rr_smoothed: RR Smoothed](images/S025_ecg_features_rr_smoothed.png)
+---
+## T/R wave ratio
 
-## qt: QT Interval
-![qt: QT Interval](images/S025_ecg_features_qt.png)
+![T/R wave ratio - Overlay](images/S025_ecg_features_overlay_9.png)
 
-## qt_refined: QT Refined
-![qt_refined: QT Refined](images/S025_ecg_features_qt_refined.png)
+---
+# Subject S025 morphological ECG features
 
-## qt_smoothed: QT Smoothed
-![qt_smoothed: QT Smoothed](images/S025_ecg_features_qt_smoothed.png)
+## S025_ecg_avg_beats_hr_binned
+![S025_ecg_avg_beats_hr_binned](images/S025_ecg_avg_beats_hr_binned.png)
 
-## qt_c: QTc
-![qt_c: QTc](images/S025_ecg_features_qt_c.png)
+## S025_ecg_med_beats_hr_binned
+![S025_ecg_med_beats_hr_binned](images/S025_ecg_med_beats_hr_binned.png)
 
-## qt_c_refined: QTc Refined
-![qt_c_refined: QTc Refined](images/S025_ecg_features_qt_c_refined.png)
+## S025_ecg_hr_hist
+![S025_ecg_hr_hist](images/S025_ecg_hr_hist.png)
 
-## qt_c_smoothed: QTc Smoothed
-![qt_c_smoothed: QTc Smoothed](images/S025_ecg_features_qt_c_smoothed.png)
+## S025_ecg_beats_stacked
+![S025_ecg_beats_stacked](images/S025_ecg_beats_stacked.png)
 
-## qrs: QRS Duration
-![qrs: QRS Duration](images/S025_ecg_features_qrs.png)
+## S025_ecg_norm_beats_stacked
+![S025_ecg_norm_beats_stacked](images/S025_ecg_norm_beats_stacked.png)
 
-## qrs_refined: QRS Duration Refined
-![qrs_refined: QRS Duration Refined](images/S025_ecg_features_qrs_refined.png)
+## S025_ecg_stacked_colorcoded_hr
+![S025_ecg_stacked_colorcoded_hr](images/S025_ecg_stacked_colorcoded_hr.png)
 
-## qrs_smoothed: QRS Duration Smoothed
-![qrs_smoothed: QRS Duration Smoothed](images/S025_ecg_features_qrs_smoothed.png)
+## S025_ecg_beats_waterfall
+![S025_ecg_beats_waterfall](images/S025_ecg_beats_waterfall.png)
 
-## t_to_r: T/R Ratio
-![t_to_r: T/R Ratio](images/S025_ecg_features_t_to_r.png)
+## S025_ecg_beats_waterfall_logscale
+![S025_ecg_beats_waterfall_logscale](images/S025_ecg_beats_waterfall_logscale.png)
 
-## t_to_r_refined: T/R Refined
-![t_to_r_refined: T/R Refined](images/S025_ecg_features_t_to_r_refined.png)
+---
+# Subject S025 electrocardiogram (ECG) detailed data processing
 
-## t_to_r_smoothed: T/R Smoothed
-![t_to_r_smoothed: T/R Smoothed](images/S025_ecg_features_t_to_r_smoothed.png)
+## hr: Heart-rate
+![hr: Heart-rate](images/S025_ecg_features_hr.png)
+
+## hr_refined: Heart-rate refined
+![hr_refined: Heart-rate refined](images/S025_ecg_features_hr_refined.png)
+
+## hr_smoothed: Heart-rate smoothed
+![hr_smoothed: Heart-rate smoothed](images/S025_ecg_features_hr_smoothed.png)
+
+## rr: RR-interval
+![rr: RR-interval](images/S025_ecg_features_rr.png)
+
+## rr_refined: RR-interval refined
+![rr_refined: RR-interval refined](images/S025_ecg_features_rr_refined.png)
+
+## rr_smoothed: RR-interval smoothed
+![rr_smoothed: RR-interval smoothed](images/S025_ecg_features_rr_smoothed.png)
+
+## sd_hr: Heart rate moving STD
+![sd_hr: Heart rate moving STD](images/S025_ecg_features_sd_hr.png)
+
+## sd_hr_refined: Refined heart rate moving STD
+![sd_hr_refined: Refined heart rate moving STD](images/S025_ecg_features_sd_hr_refined.png)
+
+## sd_hr_smoothed: Smoothed heart rate moving STD
+![sd_hr_smoothed: Smoothed heart rate moving STD](images/S025_ecg_features_sd_hr_smoothed.png)
+
+## sd_rr: RR-interval moving STD
+![sd_rr: RR-interval moving STD](images/S025_ecg_features_sd_rr.png)
+
+## sd_rr_refined: Refined RR-interval moving STD
+![sd_rr_refined: Refined RR-interval moving STD](images/S025_ecg_features_sd_rr_refined.png)
+
+## sd_rr_smoothed: Smoothed RR-interval moving STD
+![sd_rr_smoothed: Smoothed RR-interval moving STD](images/S025_ecg_features_sd_rr_smoothed.png)
+
+## rmssd_rr: RR-interval diff RMS
+![rmssd_rr: RR-interval diff RMS](images/S025_ecg_features_rmssd_rr.png)
+
+## rmssd_rr_refined: Refined RR-interval diff RMS
+![rmssd_rr_refined: Refined RR-interval diff RMS](images/S025_ecg_features_rmssd_rr_refined.png)
+
+## rmssd_rr_smoothed: Smoothed RR-interval diff RMS
+![rmssd_rr_smoothed: Smoothed RR-interval diff RMS](images/S025_ecg_features_rmssd_rr_smoothed.png)
+
+## prr50_rr: RR-interval PRR50ms
+![prr50_rr: RR-interval PRR50ms](images/S025_ecg_features_prr50_rr.png)
+
+## r_amps: R-wave amplitudes
+![r_amps: R-wave amplitudes](images/S025_ecg_features_r_amps.png)
+
+## r_amps_refined: R-wave amplitudes refined
+![r_amps_refined: R-wave amplitudes refined](images/S025_ecg_features_r_amps_refined.png)
+
+## r_amps_smoothed: R-wave amplitudes smoothed
+![r_amps_smoothed: R-wave amplitudes smoothed](images/S025_ecg_features_r_amps_smoothed.png)
+
+## qt: QT-interval
+![qt: QT-interval](images/S025_ecg_features_qt.png)
+
+## qt_refined: QT-interval refined
+![qt_refined: QT-interval refined](images/S025_ecg_features_qt_refined.png)
+
+## qt_smoothed: QT-interval smoothed
+![qt_smoothed: QT-interval smoothed](images/S025_ecg_features_qt_smoothed.png)
+
+## qt_c: QTc (Bazett)
+![qt_c: QTc (Bazett)](images/S025_ecg_features_qt_c.png)
+
+## qt_c_refined: QTc (Bazett) refined
+![qt_c_refined: QTc (Bazett) refined](images/S025_ecg_features_qt_c_refined.png)
+
+## qt_c_smoothed: QTc (Bazett) smoothed
+![qt_c_smoothed: QTc (Bazett) smoothed](images/S025_ecg_features_qt_c_smoothed.png)
+
+## qrs: QRS duration
+![qrs: QRS duration](images/S025_ecg_features_qrs.png)
+
+## qrs_refined: QRS duration refined
+![qrs_refined: QRS duration refined](images/S025_ecg_features_qrs_refined.png)
+
+## qrs_smoothed: QRS duration smoothed
+![qrs_smoothed: QRS duration smoothed](images/S025_ecg_features_qrs_smoothed.png)
+
+## t_to_r: T/R ratio
+![t_to_r: T/R ratio](images/S025_ecg_features_t_to_r.png)
+
+## t_to_r_refined: T/R ratio refined
+![t_to_r_refined: T/R ratio refined](images/S025_ecg_features_t_to_r_refined.png)
+
+## t_to_r_smoothed: T/R ratio smoothed
+![t_to_r_smoothed: T/R ratio smoothed](images/S025_ecg_features_t_to_r_smoothed.png)
