@@ -12,3 +12,7 @@ layout: page
 
 ## [Photoplethysmogram (PPG) report](./ppg/README.md)
 
+## [Respiratory report](./rsp/README.md)
+
+## [Electrodermal activity (EDA) report](./eda/README.md)
+
