@@ -4,37 +4,30 @@ layout: page
 
 
 # Subject S011 Electrodermal Activity Data Processing Summary
-Generated on 2024-09-09 18:10:21
+Generated on 2024-09-10 09:23:05
 
-## eda: Electrodermal Activity
-![eda: Electrodermal Activity](images/S011_eda_features_eda.png)
+## eda: Electrodermal activity
+![eda: Electrodermal activity](images/S011_eda_features_eda.png)
 
----
-# EDA exp model falling peak amplitude
-
-![EDA exp model falling peak amplitude - Overlay](images/S011_eda_features_overlay.png)
+## eda_lp: Electrodermal activity smoothed
+![eda_lp: Electrodermal activity smoothed](images/S011_eda_features_eda_lp.png)
 
 ---
-# EDA exp model rising peak amplitude
+# EDA segment falling/rising wave amplitudes
 
-![EDA exp model rising peak amplitude - Overlay](images/S011_eda_features_overlay_1.png)
-
----
-# EDA model falling exponential decay rate
-
-![EDA model falling exponential decay rate - Overlay](images/S011_eda_features_overlay_2.png)
+![EDA segment falling/rising wave amplitudes - Overlay](images/S011_eda_features_overlay.png)
 
 ---
-# EDA model rising exponential decay rate
+# EDA segment falling/rising wave durations
 
-![EDA model rising exponential decay rate - Overlay](images/S011_eda_features_overlay_3.png)
-
----
-# EDA model falling exponential half-life
-
-![EDA model falling exponential half-life - Overlay](images/S011_eda_features_overlay_4.png)
+![EDA segment falling/rising wave durations - Overlay](images/S011_eda_features_overlay_1.png)
 
 ---
-# EDA model rising exponential half-life
+# EDA segment falling/rising wave average amplitudes
 
-![EDA model rising exponential half-life - Overlay](images/S011_eda_features_overlay_5.png)
+![EDA segment falling/rising wave average amplitudes - Overlay](images/S011_eda_features_overlay_2.png)
+
+---
+# EDA segment falling/rising wave median amplitudes
+
+![EDA segment falling/rising wave median amplitudes - Overlay](images/S011_eda_features_overlay_3.png)
