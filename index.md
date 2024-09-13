@@ -38,3 +38,5 @@ layout: page
 
 ## [Subject S029](./data/s029/README.md)
 
+## [Subject S040](./data/s040/README.md)
+
