@@ -2,13 +2,9 @@
 layout: page
 ---
 
+
 # Subject S012 blood pressure data processing summary
-
-
-
-
----
-# Subject S012 blood pressure data processing summary
+Generated on 2024-09-15 08:35:08
 
 ![Subject S012 blood pressure data processing summary - Overlay](images/S012_bp_features_overlay.png)
 

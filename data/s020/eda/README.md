@@ -3,8 +3,8 @@ layout: page
 ---
 
 
-# Subject S020 Electrodermal Activity Data Processing Summary
-Generated on 2024-09-10 09:24:19
+# Subject S020 Electrodermal activity data processing summary
+Generated on 2024-09-15 08:48:35
 
 ## eda: Electrodermal activity
 ![eda: Electrodermal activity](images/S020_eda_features_eda.png)

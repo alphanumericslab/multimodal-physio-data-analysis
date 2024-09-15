@@ -2,10 +2,33 @@
 layout: page
 ---
 
-# Subject S010 electrocardiogram (ECG) data processing summary
 
+# Subject S010 morphological ECG features
+Generated on 2024-09-15 08:29:23
 
+## S010_ecg_avg_beats_hr_binned
+![S010_ecg_avg_beats_hr_binned](images/S010_ecg_avg_beats_hr_binned.png)
 
+## S010_ecg_med_beats_hr_binned
+![S010_ecg_med_beats_hr_binned](images/S010_ecg_med_beats_hr_binned.png)
+
+## S010_ecg_hr_hist
+![S010_ecg_hr_hist](images/S010_ecg_hr_hist.png)
+
+## S010_ecg_beats_stacked
+![S010_ecg_beats_stacked](images/S010_ecg_beats_stacked.png)
+
+## S010_ecg_norm_beats_stacked
+![S010_ecg_norm_beats_stacked](images/S010_ecg_norm_beats_stacked.png)
+
+## S010_ecg_stacked_colorcoded_hr
+![S010_ecg_stacked_colorcoded_hr](images/S010_ecg_stacked_colorcoded_hr.png)
+
+## S010_ecg_beats_waterfall
+![S010_ecg_beats_waterfall](images/S010_ecg_beats_waterfall.png)
+
+## S010_ecg_beats_waterfall_logscale
+![S010_ecg_beats_waterfall_logscale](images/S010_ecg_beats_waterfall_logscale.png)
 
 ---
 ## Heart rate
@@ -56,33 +79,6 @@ layout: page
 ## T/R wave ratio
 
 ![T/R wave ratio - Overlay](images/S010_ecg_features_overlay_9.png)
-
----
-# Subject S010 morphological ECG features
-
-## S010_ecg_avg_beats_hr_binned
-![S010_ecg_avg_beats_hr_binned](images/S010_ecg_avg_beats_hr_binned.png)
-
-## S010_ecg_med_beats_hr_binned
-![S010_ecg_med_beats_hr_binned](images/S010_ecg_med_beats_hr_binned.png)
-
-## S010_ecg_hr_hist
-![S010_ecg_hr_hist](images/S010_ecg_hr_hist.png)
-
-## S010_ecg_beats_stacked
-![S010_ecg_beats_stacked](images/S010_ecg_beats_stacked.png)
-
-## S010_ecg_norm_beats_stacked
-![S010_ecg_norm_beats_stacked](images/S010_ecg_norm_beats_stacked.png)
-
-## S010_ecg_stacked_colorcoded_hr
-![S010_ecg_stacked_colorcoded_hr](images/S010_ecg_stacked_colorcoded_hr.png)
-
-## S010_ecg_beats_waterfall
-![S010_ecg_beats_waterfall](images/S010_ecg_beats_waterfall.png)
-
-## S010_ecg_beats_waterfall_logscale
-![S010_ecg_beats_waterfall_logscale](images/S010_ecg_beats_waterfall_logscale.png)
 
 ---
 # Subject S010 electrocardiogram (ECG) detailed data processing

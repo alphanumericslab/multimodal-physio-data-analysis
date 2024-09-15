@@ -4,7 +4,25 @@ layout: page
 
 
 # Subject S019 photoplethysmogram (PPG) data processing summary
-Generated on 2024-09-08 02:28:56
+Generated on 2024-09-15 08:45:37
+
+## S019_ppg_avg_ppg_hr_binned_norm
+![S019_ppg_avg_ppg_hr_binned_norm](images/S019_ppg_avg_ppg_hr_binned_norm.png)
+
+## S019_ppg_med_ppg_hr_binned_norm
+![S019_ppg_med_ppg_hr_binned_norm](images/S019_ppg_med_ppg_hr_binned_norm.png)
+
+## S019_ppg_ppg_stacked_norm
+![S019_ppg_ppg_stacked_norm](images/S019_ppg_ppg_stacked_norm.png)
+
+## S019_ppg_avg_ecg_ppg
+![S019_ppg_avg_ecg_ppg](images/S019_ppg_avg_ecg_ppg.png)
+
+## S019_ppg_med_ecg_ppg
+![S019_ppg_med_ecg_ppg](images/S019_ppg_med_ecg_ppg.png)
+
+---
+# Subject S019 PPG detailed features
 
 ## ppg_onset_to_systolic_peak: PPG Onset to Systolic Peak Interval
 ![ppg_onset_to_systolic_peak: PPG Onset to Systolic Peak Interval](images/S019_ppg_features_ppg_onset_to_systolic_peak.png)

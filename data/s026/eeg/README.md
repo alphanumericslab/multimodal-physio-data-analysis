@@ -4,7 +4,7 @@ layout: page
 
 
 # Subject S026 instantaneous EEG frequencies
-Generated on 2024-09-08 02:42:44
+Generated on 2024-09-15 09:00:08
 
 ## band_pass_filtered_f0_Fp1: Band-Pass Filtered Instantaneous Frequency (Fp1 Channel)
 ![band_pass_filtered_f0_Fp1: Band-Pass Filtered Instantaneous Frequency (Fp1 Channel)](images/S026_eeg_inst_freq_features_band_pass_filtered_f0_Fp1.png)
