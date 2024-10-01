@@ -4,7 +4,7 @@ layout: page
 
 
 # Subject S014 photoplethysmogram (PPG) data processing summary
-Generated on 2024-09-15 08:40:09
+Generated on 2024-09-30 20:47:53
 
 ## S014_ppg_avg_ppg_hr_binned_norm
 ![S014_ppg_avg_ppg_hr_binned_norm](images/S014_ppg_avg_ppg_hr_binned_norm.png)

@@ -4,7 +4,7 @@ layout: page
 
 
 # Subject S011 seismocardiogram (SCG) data processing summary
-Generated on 2024-09-15 08:34:39
+Generated on 2024-09-30 20:42:26
 
 ## S011_scg_avg_scgx_hr_binned_norm
 ![S011_scg_avg_scgx_hr_binned_norm](images/S011_scg_avg_scgx_hr_binned_norm.png)

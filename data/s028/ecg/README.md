@@ -4,7 +4,7 @@ layout: page
 
 
 # Subject S028 morphological ECG features
-Generated on 2024-09-15 09:05:26
+Generated on 2024-09-30 21:12:50
 
 ## S028_ecg_avg_beats_hr_binned
 ![S028_ecg_avg_beats_hr_binned](images/S028_ecg_avg_beats_hr_binned.png)

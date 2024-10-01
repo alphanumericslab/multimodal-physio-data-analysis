@@ -4,7 +4,7 @@ layout: page
 
 
 # Subject S040 morphological ECG features
-Generated on 2024-09-15 09:11:13
+Generated on 2024-09-30 21:18:33
 
 ## S040_ecg_avg_beats_hr_binned
 ![S040_ecg_avg_beats_hr_binned](images/S040_ecg_avg_beats_hr_binned.png)
