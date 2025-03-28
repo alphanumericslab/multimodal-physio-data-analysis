@@ -44,3 +44,11 @@ layout: page
 
 ### [Subject P015](./data/p015/README.md)
 
+<div style="width: 300px; overflow-x: auto; white-space: nowrap; border: 1px solid #ccc;">
+  <img src="035_202009211554HR_high_res.png" alt="Scrollable Image" style="display: inline-block;">
+</div>
+
+<div style="width: 100px; overflow-x: auto; white-space: nowrap; border: 1px solid #ccc;">
+  <img src="035_202009211554HR_high_res.png" alt="Wide Image" style="display: inline-block;">
+</div>
+
