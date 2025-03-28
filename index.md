@@ -2,9 +2,7 @@
 layout: page
 ---
 
-# Preconscious Signal Compilation for Robust and Individualized Belief Evaluation (PRESCRIBE)
-
-## Multimodal physiological data analysis reports
+# Multimodal physiological data analysis automation
 
 ### [Subject S003](./data/s003/README.md)
 
